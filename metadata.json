@@ -1,0 +1,8 @@
+{
+  "name": "Financials with Tuhin",
+  "description": "Comprehensive financial statement calculation engine, 5-statement financial reporting suite, Statement of Cash Flows, Notes to the Financial Statements, and multi-format export system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
